@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=HfTXHrWMGVY&list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekW
 GOAL:
 1.Get HTML + CSS + JS workflows started
 2.Publish page on Github Pages
+
+
+Deployment:
+https://thomaslam2142.github.io/html-webpage-the-Generics/
